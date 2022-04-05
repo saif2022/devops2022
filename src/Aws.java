@@ -1,0 +1,2 @@
+public class Aws {
+}
